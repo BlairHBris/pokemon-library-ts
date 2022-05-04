@@ -3,7 +3,7 @@ const spinner = document.querySelector(".spinner");
 const pokemonDetails = document.querySelector("#pokemon-details");
 const ul = document.querySelector("ul");
 const main = document.querySelector("main");
-function addChosenPokemon(pokemon1) {
+function addPokemon(pokemon1) {
     const div = document.createElement("div");
     div.innerHTML = `
     <figure>
@@ -26,16 +26,14 @@ const backButton = document.createElement("table");
 backButton.classList.add("back-button");
 backButton.innerHTML = `<a href="index.html">Back to List</a>`;
 main.append(backButton);
-const url = new URL(window.location);
-console.log(url);
-const queryString = new URLSearchParams(url.search);
+const queryString = new URLSearchParams(window.location.search);
 fetch(`https://pokeapi.co/api/v2/pokemon/${queryString.get("pokemon")}`).then((response)=>{
     return response.json();
 }).then((parsedResponse1)=>{
-    addChosenPokemon(parsedResponse1);
+    addPokemon(parsedResponse1);
     return Promise.all(parsedResponse1.abilities.map((parsedResponse)=>parsedResponse.ability.url
-    ).map((url1)=>{
-        return fetch(url1).then((response)=>response.json()
+    ).map((url)=>{
+        return fetch(url).then((response)=>response.json()
         );
     }));
 }).then((parsedResponse2)=>{

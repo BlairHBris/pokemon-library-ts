@@ -1,26 +1,6 @@
 {
-  "name": "pokemon-library-ts",
-  "version": "1.0.0",
-  "description": "You're making a PokeDex, a list of Pokemon.",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BlairHBris/pokemon-library-ts.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BlairHBris/pokemon-library-ts/issues"
-  },
-  "homepage": "https://github.com/BlairHBris/pokemon-library-ts#readme",
   "dependencies": {
-    "jest": "^28.0.3"
-  },
-  "devDependencies": {
-    "parcel": "^2.5.0"
+    "esm": "^3.2.25",
+    "typescript": "^4.6.4"
   }
 }
