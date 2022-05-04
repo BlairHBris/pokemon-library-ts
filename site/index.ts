@@ -13,8 +13,6 @@ type Pokemon = {
     }[];
 }
 
-
-
 function addPokemon(pokemon) {
     const div = document.createElement("div")
     div.innerHTML = `
