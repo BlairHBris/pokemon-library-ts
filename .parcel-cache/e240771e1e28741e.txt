@@ -1,11 +1,14 @@
-7197
-58/home/blair-b/Session_3/pokemon-library-ts/site/index.html1651675670227069100 0
-55/home/blair-b/Session_3/pokemon-library-ts/site/app.css1651675670217069100 0
-47/home/blair-b/Session_3/pokemon-library-ts/site1651675670227069100 1
-58/home/blair-b/Session_3/pokemon-library-ts/dist/index.html1651675918777069100 0
+7203
+58/home/blair-b/Session_3/pokemon-library-ts/site/index.html1651676715927069100 0
+55/home/blair-b/Session_3/pokemon-library-ts/site/app.css1651676146717069100 0
+47/home/blair-b/Session_3/pokemon-library-ts/site1651676044937069100 1
+58/home/blair-b/Session_3/pokemon-library-ts/dist/index.html1651680061757069100 0
 69/home/blair-b/Session_3/pokemon-library-ts/dist/index.8aefcf31.js.map1651675918777069100 0
+65/home/blair-b/Session_3/pokemon-library-ts/dist/index.b4bff934.js1651680061767069100 0
+69/home/blair-b/Session_3/pokemon-library-ts/dist/index.b4bff934.js.map1651680061767069100 0
+71/home/blair-b/Session_3/pokemon-library-ts/dist/gifSpinner.bf37d68d.gif1651680061837069100 0
 52/home/blair-b/Session_3/pokemon-library-ts/README.md1651675670217069100 0
-55/home/blair-b/Session_3/pokemon-library-ts/package.json1651675870837069100 0
+55/home/blair-b/Session_3/pokemon-library-ts/package.json1651678998817069100 0
 60/home/blair-b/Session_3/pokemon-library-ts/package-lock.json1651675870837069100 0
 78/home/blair-b/Session_3/pokemon-library-ts/node_modules/resolve-from/readme.md1651675789537069100 0
 81/home/blair-b/Session_3/pokemon-library-ts/node_modules/resolve-from/package.json1651675789077069100 0
@@ -685,7 +688,7 @@
 81/home/blair-b/Session_3/pokemon-library-ts/node_modules/require-directory/LICENSE1651675789257069100 0
 86/home/blair-b/Session_3/pokemon-library-ts/node_modules/require-directory/package.json1651675789007069100 0
 68/home/blair-b/Session_3/pokemon-library-ts/node_modules/ms/readme.md1651675789447069100 0
-47/home/blair-b/Session_3/pokemon-library-ts/dist1651675918777069100 1
+47/home/blair-b/Session_3/pokemon-library-ts/dist1651680061837069100 1
 69/home/blair-b/Session_3/pokemon-library-ts/node_modules/ms/license.md1651675789317069100 0
 58/home/blair-b/Session_3/pokemon-library-ts/node_modules/ms1651675789317069100 1
 87/home/blair-b/Session_3/pokemon-library-ts/node_modules/diff-sequences/build/index.d.ts1651675789967069100 0
@@ -1219,6 +1222,7 @@
 73/home/blair-b/Session_3/pokemon-library-ts/node_modules/htmlnano/index.js1651675864047069100 0
 72/home/blair-b/Session_3/pokemon-library-ts/node_modules/htmlnano/test.js1651675864547069100 0
 77/home/blair-b/Session_3/pokemon-library-ts/node_modules/htmlnano/package.json1651675865037069100 0
+62/home/blair-b/Session_3/pokemon-library-ts/site/gifSpinner.gif1651676042247069100 0
 64/home/blair-b/Session_3/pokemon-library-ts/node_modules/htmlnano1651675865267069100 1
 84/home/blair-b/Session_3/pokemon-library-ts/node_modules/yaml/browser/types/binary.js1651675863547069100 0
 79/home/blair-b/Session_3/pokemon-library-ts/node_modules/terminal-link/readme.md1651675789487069100 0
@@ -1244,6 +1248,7 @@
 93/home/blair-b/Session_3/pokemon-library-ts/node_modules/source-map/dist/source-map.min.js.map1651675790567069100 0
 76/home/blair-b/Session_3/pokemon-library-ts/node_modules/source-map/README.md1651675789307069100 0
 74/home/blair-b/Session_3/pokemon-library-ts/node_modules/source-map/LICENSE1651675789537069100 0
+61/home/blair-b/Session_3/pokemon-library-ts/site/pokemonbg.png1651676044947069100 0
 82/home/blair-b/Session_3/pokemon-library-ts/node_modules/source-map/source-map.d.ts1651675790237069100 0
 66/home/blair-b/Session_3/pokemon-library-ts/node_modules/source-map1651675790237069100 1
 86/home/blair-b/Session_3/pokemon-library-ts/node_modules/detect-libc/bin/detect-libc.js1651675863657069100 0
@@ -2267,7 +2272,6 @@
 66/home/blair-b/Session_3/pokemon-library-ts/node_modules/domhandler1651675863757069100 1
 90/home/blair-b/Session_3/pokemon-library-ts/node_modules/caniuse-lite/data/features/hevc.js1651675790977069100 0
 92/home/blair-b/Session_3/pokemon-library-ts/node_modules/utility-types/dist/mapped-types.d.ts1651675864147069100 0
-56/home/blair-b/Session_3/pokemon-library-ts/site/index.js1651675670227069100 0
 90/home/blair-b/Session_3/pokemon-library-ts/node_modules/cosmiconfig/dist/cacheWrapper.d.ts1651675864467069100 0
 91/home/blair-b/Session_3/pokemon-library-ts/node_modules/@jest/core/build/lib/isValidPath.js1651675790277069100 0
 110/home/blair-b/Session_3/pokemon-library-ts/node_modules/@babel/core/lib/config/validation/option-assertions.js1651675790457069100 0
@@ -4588,6 +4592,7 @@
 80/home/blair-b/Session_3/pokemon-library-ts/node_modules/terser/tools/domprops.js1651675864977069100 0
 103/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/resolver-default/lib/DefaultResolver.js1651675863517069100 0
 82/home/blair-b/Session_3/pokemon-library-ts/node_modules/@jest/test-sequencer/build1651675789417069100 1
+56/home/blair-b/Session_3/pokemon-library-ts/site/index.ts1651680061607069100 0
 90/home/blair-b/Session_3/pokemon-library-ts/node_modules/@babel/traverse/scripts/generators1651675790527069100 1
 82/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/markdown-ansi/test1651675863597069100 1
 101/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/core/test/fixtures/library-scopehoist1651675865797069100 1
@@ -5760,6 +5765,7 @@
 92/home/blair-b/Session_3/pokemon-library-ts/node_modules/@babel/helper-module-imports/LICENSE1651675789097069100 0
 83/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/reporter-dev-server1651675864677069100 1
 100/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/reporter-dev-server/src/HMRServer.js1651675863637069100 0
+70/home/blair-b/Session_3/pokemon-library-ts/dist/pokemonbg.e5fa183e.png1651680061817069100 0
 97/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/reporter-dev-server/src/templates1651675863597069100 1
 106/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/reporter-dev-server/src/templates/500.html1651675863607069100 0
 101/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/reporter-dev-server/src/types.js.flow1651675863527069100 0
@@ -6022,7 +6028,7 @@
 80/home/blair-b/Session_3/pokemon-library-ts/node_modules/entities/lib/encode.d.ts1651675864427069100 0
 109/home/blair-b/Session_3/pokemon-library-ts/node_modules/caniuse-lite/data/features/css-overscroll-behavior.js1651675790857069100 0
 72/home/blair-b/Session_3/pokemon-library-ts/node_modules/p-limit/index.js1651675789137069100 0
-66/home/blair-b/Session_3/pokemon-library-ts/dist/index.d0e0379e.css1651675918737069100 0
+66/home/blair-b/Session_3/pokemon-library-ts/dist/index.d0e0379e.css1651680061717069100 0
 67/home/blair-b/Session_3/pokemon-library-ts/node_modules/ansi-styles1651675789447069100 1
 117/home/blair-b/Session_3/pokemon-library-ts/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc1651675863567069100 0
 78/home/blair-b/Session_3/pokemon-library-ts/node_modules/ansi-styles/index.d.ts1651675789607069100 0
@@ -6762,7 +6768,7 @@
 79/home/blair-b/Session_3/pokemon-library-ts/node_modules/balanced-match/index.js1651675789037069100 0
 76/home/blair-b/Session_3/pokemon-library-ts/node_modules/resolve.exports/dist1651675789697069100 1
 90/home/blair-b/Session_3/pokemon-library-ts/node_modules/balanced-match/.github/FUNDING.yml1651675789597069100 0
-70/home/blair-b/Session_3/pokemon-library-ts/dist/index.d0e0379e.css.map1651675918747069100 0
+70/home/blair-b/Session_3/pokemon-library-ts/dist/index.d0e0379e.css.map1651680061757069100 0
 93/home/blair-b/Session_3/pokemon-library-ts/node_modules/@babel/types/lib/definitions/index.js1651675790647069100 0
 69/home/blair-b/Session_3/pokemon-library-ts/node_modules/yargs/LICENSE1651675789067069100 0
 95/home/blair-b/Session_3/pokemon-library-ts/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts1651675864567069100 0
