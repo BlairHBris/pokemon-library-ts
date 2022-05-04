@@ -5,8 +5,8 @@ const pokemonListing = document.querySelector("#pokemon-listing")
 type Pokemon = {
     name: string;
     results: {
-        name:string;
-        url:string;
+        name: string;
+        url: string;
         sprites: {
             front_default: string;
         }
@@ -37,3 +37,4 @@ fetch(api)
             addPokemon(response)
         })
     })
+
